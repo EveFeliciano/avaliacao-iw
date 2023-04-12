@@ -1,0 +1,14 @@
+body{
+    background-color: burlywood;
+}
+header{
+    background-color: rgb(255, 145, 0);
+}
+.banner{
+    width: 100%;
+}
+.container{
+    width: 80%;
+    background-color: chocolate;
+    margin: auto;
+}
